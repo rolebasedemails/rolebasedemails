@@ -1,6 +1,6 @@
-#About: "Role-based" email addresses are email prefixes or handles (text before the @ in email addresses) that are commonly used by domains to send email to one or more recipients.<br>
-##They often represent a position, job, or group of recipients on an email domain, rather than an individual.<br>
-###I was annoyed no one had seemed to update a global list over the years so heres an attempt at it. Feel free to contribute. Open license to use, reuse, do whatever etc. If you send any amount of bulk or mass emails, you likely need a list like this.<br><br>
+# About: "Role-based" email addresses are email prefixes or handles (text before the @ in email addresses) that are commonly used by domains to send email to one or more recipients.<br>
+## They often represent a position, job, or group of recipients on an email domain, rather than an individual.<br>
+### I was annoyed no one had seemed to update a global list over the years so heres an attempt at it. Feel free to contribute. Open license to use, reuse, do whatever etc. If you send any amount of bulk or mass emails, you likely need a list like this.<br><br>
 <br>
 Handle<br>
 360risk<br>
